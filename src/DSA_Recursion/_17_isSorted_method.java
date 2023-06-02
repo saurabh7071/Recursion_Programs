@@ -5,7 +5,7 @@
 // natural order
 
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 import org.apache.commons.lang3.ArrayUtils;
 import org.apache.commons.lang3.ArrayUtils;
 

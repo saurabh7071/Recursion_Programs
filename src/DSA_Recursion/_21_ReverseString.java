@@ -1,7 +1,7 @@
 
 // Write a Program to print reverse of a string using recursion
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 import java.util.Scanner;
 import java.lang.String;
 public class _21_ReverseString {

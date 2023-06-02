@@ -2,7 +2,7 @@
 //  Remove all the occurrences of 'a' from string str .....
 
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
 // Given an integer, find out the sum of its digits using recursion...
 // 3452 ---> 3+4+5+2 = 14
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 import java.util.Scanner;
 public class _05_SumOfDigits {
     static int Addition(int n){

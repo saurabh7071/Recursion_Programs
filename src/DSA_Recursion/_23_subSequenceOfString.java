@@ -6,7 +6,7 @@
      No of subsequences -----> 2 to the power (Number of characters present in the string)
  */
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 
 import java.util.ArrayList;
 

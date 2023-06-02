@@ -1,7 +1,7 @@
 
 // Find the factorial of n numbers
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 import java.util.Scanner;
 public class _03_Factorial {
     static int fact(int n){

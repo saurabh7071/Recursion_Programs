@@ -2,7 +2,7 @@
 // Given two numbers p and q. Find the value P^q using a recursive function
 // p^q = p*p*p*p*p*p...................  ------> q times
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 import java.util.Scanner;
 public class _06_PowerOf_N {
     static int pow(int p,int q)

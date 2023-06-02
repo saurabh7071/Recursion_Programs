@@ -1,7 +1,7 @@
 
 // Write a program to check the given string is palindrome or not ...
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 
 import java.util.Scanner;
 

@@ -3,7 +3,7 @@
 // Fibonacci series : The Fibonacci Series is a Series of number in which each number is the sum of two procceding numbers
 // Fibonacci series be like ---> 0 1 1 2 3 5 8 13 21 34 55 ...............
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 import java.util.Scanner;
 public class _04_Fibonacci_Series {
     static int series(int n) {

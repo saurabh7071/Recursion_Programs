@@ -1,7 +1,7 @@
 
 // Write a program to print all natural numbers from n to 1 using recursion.
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 
 import java.util.Scanner;
 public class _02_print_n_to_1_Number {

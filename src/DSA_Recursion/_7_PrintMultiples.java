@@ -2,7 +2,7 @@
 // Printing the first n Multiples of p
 // p=5 , n=4 ---> 5 , 10 , 15 , 20
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 import java.util.Scanner;
 public class _7_PrintMultiples {
     static void Print(int p,int q){

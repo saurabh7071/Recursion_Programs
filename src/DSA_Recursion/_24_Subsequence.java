@@ -1,4 +1,4 @@
-package DSA_Recursion.java;
+package DSA_Recursion;
 
 public class _24_Subsequence {
     static void Subsequences(String str,String current_ans){

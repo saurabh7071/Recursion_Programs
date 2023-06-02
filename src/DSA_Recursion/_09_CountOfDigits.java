@@ -1,7 +1,7 @@
 
 // Write a program to count the digits in a given number n.
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 import java.util.Scanner;
 public class _09_CountOfDigits {
     static int count=0;

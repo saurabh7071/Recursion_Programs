@@ -1,7 +1,7 @@
 
 // Check the number is prime or not and print the prime number upto 100 numbers
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 
 public class _18_PrimeNumber {
     static int isPrime(int num,int n){

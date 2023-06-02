@@ -1,7 +1,7 @@
 
 // Program to check the array is sorted or not ...
 
-package DSA_Recursion.java;
+package DSA_Recursion;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
