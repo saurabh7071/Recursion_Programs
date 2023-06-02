@@ -5,17 +5,16 @@ package DSA_Recursion;
 
 import java.util.Scanner;
 public class _02_print_n_to_1_Number {
-    static int printing(int n) {
+    static void printing(int n) {
         //base case
         if(n==1){
             System.out.println(n);
-            return 0;
+            return;
         }
         //Self work
         System.out.println(n);
         //Recursive case
         printing(n-1);
-        return 0;
     }
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
