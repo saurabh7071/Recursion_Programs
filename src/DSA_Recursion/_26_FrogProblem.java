@@ -19,7 +19,7 @@ public class _26_FrogProblem {
     static int MinimumCost(int[] arr,int size,int idx){
         if(idx == size-1) return 0;
         int operation1 = MinimumCost(arr,size,idx+1) + Math.abs(arr[idx] - arr[idx+1]);
-        if(idx == size-2) return operation1;
+        if(idx == size-2) return operation1;   
         int operation2 = MinimumCost(arr,size,idx+2) + Math.abs(arr[idx] - arr[idx+2]);
         return Math.min(operation1,operation2);
     }
